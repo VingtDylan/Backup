@@ -113,3 +113,15 @@ search:
   format: html
   limit: 10000
 
+#Security
+encrypt:
+    enable: true
+
+Plugins:
+- hexo-generator-baidu-sitemap
+- hexo-generator-sitemap
+
+baidusitemap:
+    path: baidusitemap.xml
+sitemap:
+    path: sitemap.xml
