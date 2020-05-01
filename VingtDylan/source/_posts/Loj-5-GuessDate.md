@@ -4,7 +4,7 @@ mathjax: true
 copyright: true
 tags:
   - Loj
-  - Loj Test Problem
+  - Test Problem
   - 数学
 categories: Loj
 abbrlink: ca9d

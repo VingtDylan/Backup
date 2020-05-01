@@ -4,7 +4,7 @@ mathjax: true
 copyright: true
 tags: 
   - Loj 
-  - Loj Test Problem
+  - Test Problem
   - 二分查找 
   - 双指针
 categories: Loj

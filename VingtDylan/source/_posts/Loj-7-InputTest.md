@@ -4,7 +4,7 @@ mathjax: true
 copyright: true
 tags: 
   - Loj
-  - Loj Test Problem
+  - Test Problem
 categories: Loj
 abbrlink: f7ec
 date: 2020-05-01 11:41:21

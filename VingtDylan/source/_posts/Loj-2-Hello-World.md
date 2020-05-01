@@ -6,7 +6,7 @@ abbrlink: f77e
 date: 2020-05-01 11:12:38
 tags:
   - Loj
-  - Loj Test Problem
+  - Test Problem
 categories: Loj 
 ---
 
