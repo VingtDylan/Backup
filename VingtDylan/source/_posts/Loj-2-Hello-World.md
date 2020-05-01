@@ -2,10 +2,10 @@
 title: Loj 2 Hello World
 mathjax: true
 copyright: true
-tags: Loj
-categories: Loj测试题
 abbrlink: f77e
-date: 2020-04-30 21:27:27
+date: 2020-05-01 11:12:38
+tags: Loj
+categories: Loj 
 ---
 
 #### 题目描述
@@ -20,7 +20,7 @@ date: 2020-04-30 21:27:27
 
 一行 **Hello, World!**，大小写不限。
 
-<!--less-->
+<!--more-->
 
 #### 样例
 

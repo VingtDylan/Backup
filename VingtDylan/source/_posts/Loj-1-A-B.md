@@ -2,25 +2,25 @@
 title: Loj 1 A+B
 mathjax: true
 copyright: true
-tags: Loj
-categories: Loj测试题
 abbrlink: 1c57
-date: 2020-04-30 21:19:37
+date: 2020-05-01 11:09:26
+tags: Loj
+categories: Loj 
 ---
 
 #### 题目描述
 
-输入 $a$和$b$，输出 $a$ + $b$的结果。
+输入 $a$ 和 $b$，输出 $a$ + $b$ 的结果。
 
 #### 输入格式
 
-一行两个正整数$a$和$b$ 。
+一行两个正整数 $a$ 和 $b$ 。
 
 #### 输出格式
 
 一行一个正整数$a$ + $b$。
 
-<!--less-->
+<!--more-->
 
 #### 样例
 

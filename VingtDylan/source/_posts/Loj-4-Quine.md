@@ -2,10 +2,10 @@
 title: Loj 4 Quine
 mathjax: true
 copyright: true
+tags: Loj mark
+categories: Loj
 abbrlink: '9124'
-date: 2020-04-30 21:28:01
-tags: Loj marked
-categories: Loj测试题
+date: 2020-05-01 11:18:03
 ---
 
 #### 题目描述
@@ -22,7 +22,7 @@ categories: Loj测试题
 
 你的源代码。
 
-<!--less-->
+<!--more-->
 
 这是一个有趣的问题，Google一下
 

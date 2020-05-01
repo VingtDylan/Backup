@@ -2,10 +2,10 @@
 title: Loj 5 GuessDate
 mathjax: true
 copyright: true
-abbrlink: '0'
-date: 2020-04-30 21:28:01
-tags: Loj 数学 marked
-categories: Loj测试题
+tags: Loj 数学
+categories: Loj
+abbrlink: ca9d
+date: 2020-05-01 11:39:30
 ---
 
 #### 题目描述
@@ -24,7 +24,7 @@ categories: Loj测试题
 
 对于每个测试点，请将对应答案写入 `date#.usr` 中，并填入网页下方提交答案处，或者以 zip 压缩包形式上传。
 
-<!--less-->
+<!--more-->
 
 #### 样例
 
@@ -53,12 +53,11 @@ abs(x - 7) == 4
 - 本题的测试数据中，`in` 文件是输出 0可得的分数百分比；`out` 文件是正确日期。在上传提交答案类题目时，如果 Special Judge 不需要 `in`/`out` 文件，可在 `data.yml` 中对应省略 `inputFile`/`outputFile` 项。
 - **不保证** 答案是一个公历日期。
 
-
-
 #### AC思路
 
 
 #### date1.usr
+
 题目:
 
 ```bash
@@ -121,6 +120,7 @@ for(long long i = 1000000000 - 10; i <= 1000000000 + 10; i++){
 	 
 }
 ```
+
 #### date4.usr
 
 题目

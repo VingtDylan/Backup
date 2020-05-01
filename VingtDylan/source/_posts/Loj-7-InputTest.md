@@ -2,15 +2,15 @@
 title: Loj 7 InputTest
 mathjax: true
 copyright: true
+tags: Loj
+categories: Loj
 abbrlink: f7ec
-date: 2020-04-30 21:28:33
-tags: Loj 
-categories: Loj测试题
+date: 2020-05-01 11:41:21
 ---
 
 #### 题目描述
 
-输入 $3\times 10^6$个$[0,2^m)$中均匀随机的十进制整数，输出它们的异或和。
+输入 $3\times 10^6$ 个$[0,2^m)$中均匀随机的十进制整数，输出它们的异或和。
 
 #### 输入格式
 
@@ -24,7 +24,7 @@ categories: Loj测试题
 
 共5组数据， 分别为 1, 3, 15, 31, 63 。
 
-<!--less-->
+<!--more-->
 
 #### AC代码
 

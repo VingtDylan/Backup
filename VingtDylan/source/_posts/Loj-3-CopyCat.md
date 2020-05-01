@@ -1,11 +1,11 @@
 ---
-title: Loj 3 CopyCat
+title: Loj 3 Copycat
 mathjax: true
 copyright: true
-tags: Loj
-categories: Loj测试题
-abbrlink: ad1c
-date: 2020-04-30 21:27:42
+abbrlink: 671d
+date: 2020-05-01 11:14:09
+tags: Loj 
+categories: Loj 
 ---
 
 #### 题目描述
@@ -16,14 +16,14 @@ date: 2020-04-30 21:27:42
 
 #### 输入格式
 
-第一行一个$T$正整数 ，表示有$T$组测试数据。
-接下来$T$行，每行一个正整数$a$ 。
+第一行一个 $T$ 正整数 ，表示有 $T$ 组测试数据。
+接下来 $T$ 行，每行一个正整数 $a$ 。
 
 #### 输出格式
 
 输出$T$行，每行一个正整数$a$。
 
-<!--less-->
+<!--more-->
 
 #### 样例
 
