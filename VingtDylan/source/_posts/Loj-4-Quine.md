@@ -2,7 +2,10 @@
 title: Loj 4 Quine
 mathjax: true
 copyright: true
-tags: Loj mark
+tags: 
+  - Loj 
+  - mark
+  - Loj Test Problem
 categories: Loj
 abbrlink: '9124'
 date: 2020-05-01 11:18:03

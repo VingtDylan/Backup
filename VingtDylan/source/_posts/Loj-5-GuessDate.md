@@ -2,7 +2,10 @@
 title: Loj 5 GuessDate
 mathjax: true
 copyright: true
-tags: Loj 数学
+tags:
+  - Loj
+  - Loj Test Problem
+  - 数学
 categories: Loj
 abbrlink: ca9d
 date: 2020-05-01 11:39:30

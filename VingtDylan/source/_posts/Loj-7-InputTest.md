@@ -2,7 +2,9 @@
 title: Loj 7 InputTest
 mathjax: true
 copyright: true
-tags: Loj
+tags: 
+  - Loj
+  - Loj Test Problem
 categories: Loj
 abbrlink: f7ec
 date: 2020-05-01 11:41:21

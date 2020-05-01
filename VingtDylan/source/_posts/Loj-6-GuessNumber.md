@@ -2,7 +2,11 @@
 title: Loj 6 GuessNumber
 mathjax: true
 copyright: true
-tags: Loj 二分查找 双指针
+tags: 
+  - Loj 
+  - Loj Test Problem
+  - 二分查找 
+  - 双指针
 categories: Loj
 abbrlink: 45c0
 date: 2020-05-01 11:40:49

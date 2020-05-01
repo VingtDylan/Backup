@@ -4,7 +4,9 @@ mathjax: true
 copyright: true
 abbrlink: 671d
 date: 2020-05-01 11:14:09
-tags: Loj 
+tags: 
+  - Loj
+  - Loj Test Problem
 categories: Loj 
 ---
 
