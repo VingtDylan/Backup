@@ -29,11 +29,11 @@ date: 2020-05-03 12:53:05
 
 如果你已经实现复杂度为 O(**n**) 的解法，尝试使用更为精妙的分治法求解。
 
+<!--more-->
+
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/maximum-subarray
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
-
-<!--more-->
 
 #### AC代码
 
