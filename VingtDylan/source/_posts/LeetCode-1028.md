@@ -2,12 +2,13 @@
 title: LeetCode 1028
 mathjax: true
 copyright: true
-date: 2020-06-18 01:22:37
 tags:
   - LeetCode
   - 树
   - 深度优先遍历
 categories: LeetCode
+abbrlink: 5d1b
+date: 2020-06-18 01:22:37
 ---
 
 #### [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)
@@ -62,7 +63,40 @@ categories: LeetCode
 
 #### AC代码
 
-```c++
+map记录depth对应的结点
 
+```c++
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    TreeNode* recoverFromPreorder(string S) {
+        int depth = 0;
+        unordered_map<int,TreeNode*> mp;
+        TreeNode *root = new TreeNode(stoi(S.substr(0)));
+        mp[0] = root;
+        for(int i = 1; i < S.size(); i++){
+            if(S[i] == '-')depth++;
+            else if(depth > 0){
+                TreeNode *node = new TreeNode(stoi(S.substr(i)));
+                if(mp[depth - 1]->left == NULL){
+                    mp[depth - 1]->left = node;
+                }else{
+                    mp[depth - 1]->right = node;
+                }
+                mp[depth] = node;
+                depth = 0;
+            }
+        }
+        return mp[0];
+    }
+};
 ```
 

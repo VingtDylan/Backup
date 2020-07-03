@@ -5,7 +5,10 @@ type: "book"
 passward: pdf
 ---
 
-### 数值分析
+全部取消了，以后再更新吧
+
+<!--### 数值分析
+
 ####  第一章:绪论
 {% pdf ./Computing_method/Chapter1.pdf %}
 ####  第二章:线性方程组的直接解法
@@ -29,4 +32,4 @@ passward: pdf
 #### 习题解析
 {% pdf ./Computing_method/习题解析.pdf %}
 #### 科学和工程计算基础
-{% pdf ./Computing_method/科学和工程计算基础.pdf %}
+{% pdf ./Computing_method/科学和工程计算基础.pdf %}-->
